@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Jean Guilherme! 👋</h1>
 
-<!--
-**DVJeanGuilherme/DVJeanGuilherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Desenvolvedor focado em aplicações modernas, Desktop e Inteligência Artificial.</h3>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 💻 Desenvolvendo aplicações modernas usando **Tauri, Rust e React**.
+- 🧠 Entusiasta em criar assistentes virtuais interativos, automações e integrações com **LLMs (Inteligência Artificial)**.
+- 🤝 Sempre focado em criar experiências de usuário inovadoras e interfaces fluidas.
+
+## 🛠️ Minhas Habilidades e Ferramentas
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend, Desktop & Database
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Inteligência Artificial & Ferramentas
+![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 🌟 Projetos em Destaque
+- **[NUMAIA-PET-AGENT](https://github.com/DVJeanGuilherme/NUMAIA-PET-AGENT)**: Um assistente/mascote virtual inovador para desktop. Desenvolvido com interface transparente e suporte multimonitor. Integra chat alimentado por diferentes modelos de Inteligência Artificial para te ajudar no dia a dia. Construído com **Tauri**, **Rust** e **React**.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DVJeanGuilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVJeanGuilherme&layout=compact&theme=dracula" />
+</p>
+
