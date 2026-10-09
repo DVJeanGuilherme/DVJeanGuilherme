@@ -5,9 +5,10 @@
 <br/>
 
 ## 🚀 Sobre mim
-- 💻 Desenvolvendo aplicações modernas usando **Tauri, Rust e React**.
+- 💻 Desenvolvendo aplicações modernas usando **Tauri, Rust, React** e **ObjectScript**.
+- 🔌 Especialista em **Integração de Sistemas**, trabalhando profundamente com desenvolvimento e consumo de APIs **REST** e **SOAP**.
 - 🧠 Entusiasta em criar assistentes virtuais interativos, automações e integrações com **LLMs (Inteligência Artificial)**.
-- 🤝 Sempre focado em criar experiências de usuário inovadoras e interfaces fluidas.
+- 🤝 Sempre focado em criar experiências de usuário inovadoras, além de garantir integrações robustas entre diferentes plataformas.
 
 ## 🛠️ Minhas Habilidades e Ferramentas
 
@@ -38,15 +39,14 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### Arquitetura & Integrações
+![REST API](https://img.shields.io/badge/-REST%20API-005571?style=for-the-badge&logo=json&logoColor=white)
+![SOAP API](https://img.shields.io/badge/-SOAP%20API-854C9A?style=for-the-badge&logo=databricks&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![XML](https://img.shields.io/badge/-XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+
 ## 🌟 Projetos em Destaque
 - **[NUMAIA-PET-AGENT](https://github.com/DVJeanGuilherme/NUMAIA-PET-AGENT)**: Um assistente/mascote virtual inovador para desktop. Desenvolvido com interface transparente e suporte multimonitor. Integra chat alimentado por diferentes modelos de Inteligência Artificial para te ajudar no dia a dia. Construído com **Tauri**, **Rust** e **React**.
 
----
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DVJeanGuilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVJeanGuilherme&layout=compact&theme=dracula" />
-</p>
 
