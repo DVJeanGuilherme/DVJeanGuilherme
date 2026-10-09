@@ -21,6 +21,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend, Desktop & Database
+![ObjectScript](https://img.shields.io/badge/-ObjectScript-125091?style=for-the-badge&logo=intersystems&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
